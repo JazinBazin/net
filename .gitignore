@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+checkpoints/
+dataset.zip
+dataset/
+dataset1/
+dataset2/
+logs/
+multiple_results/
+single_results/
+tests/
+trained_models/
+training_plots/
+venv/
